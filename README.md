@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meena alias @DevopsNova
 - 👀 I’m interested in DevOps concepts including Build Automation, CI/CD, Infrastructure as Code, etc.
-- 🌱 I’m currently learning Terraform. And, currently working on "AWS Certified DevOps Engineer - Professional" Certification.
+- 🌱 I’m currently learning Terraform. And, working on "AWS Certified DevOps Engineer - Professional" Certification.
 - 💞️ I’m looking to collaborate on AWS Cloud DevOps Projects
 - 📫 How to reach me?  via email - meenasweb05@gmail.com
 
